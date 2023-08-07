@@ -1,2 +1,4 @@
 # NeonMetropolisWebGL
+Neon Metropolis is a fully immersive cyberpunk city virtual reality and metaverse that allows players to explore a neon-lit world filled with advanced technology and a diverse cast of characters. Players can create their own unique avatars and build their own virtual businesses and communities within the game world. The game offers endless possibilities for customization and personalization, allowing players to tailor the experience to their own preferences. The game also incorporates elements of “smart cities” and the Internet of Things (IoT) to make the game world more interactive and responsive to player actions.
+
 The project was built using a game engine like Unity or Unreal Engine which would be used to create the virtual world and handle the rendering of 3D graphics, physics, and other gameplay elements1. You can find more information about this project on Devpost.
